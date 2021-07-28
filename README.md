@@ -38,9 +38,10 @@ Projeto 0
 <h4 align="center">
 • HTML • CSS •
 </h4>
-<h3 align="center">Recriação da página de pesquisas do Google 🔍
+<h3 align="center">Recriação da página de pesquisas do Google 🔍</h3>
+<p align="center">
 <a href="https://github.com/brunomdrrosa/CS50-s-Web-Programming-with-Python-and-JavaScript/tree/main/project0"><img src="https://i.imgur.com/FAmT4nU.png"/></a>	
-</h3>
+</p>
 <h2 align="center">
 Projeto 1
 </h2>	
