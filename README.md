@@ -44,6 +44,16 @@ Projeto 0
 </p>
 <h2 align="center">
 Projeto 1
+</h2>
+<h4 align="center">
+• HTML • CSS • Django •
+</h4>
+<h3 align="center">Criação de uma página de Wikipedia 🔍</h3>
+<p align="center">
+<!-- <a href="https://github.com/brunomdrrosa/CS50-s-Web-Programming-with-Python-and-JavaScript/tree/main/project1"><img src="https://i.imgur.com/FAmT4nU.png"/></a>	 -->
+</p>
+<h2 align="center">
+Projeto 2
 </h2>	
 <h1 align="center">
 EM BREVE ⚠️
